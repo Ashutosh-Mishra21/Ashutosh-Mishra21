@@ -53,7 +53,8 @@ AI & Machine Learning → Neural Networks from scratch → Sentiment Analysis & 
 💡 My curiosity is both my **curse** (never satisfied) and my **superpower** (boundless creation).  
 
 ---
-## GitHub Stats
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
