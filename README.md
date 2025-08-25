@@ -15,6 +15,9 @@ Driven by curiosity and innovation, I build intelligent systems — from AI agen
 - **[CareerPilot_AI](https://github.com/Ashutosh-Mishra21/CareerPilot_AI)** 
  A smart assistant that finds relevant jobs, crafts tailored cover letters and resumes, applies on your behalf, and even helps you prepare for interviews.
 
+### 🧠 AI & Computer Vision
+- [**OCR-Using-YOLO**](https://github.com/Ashutosh-Mishra21/OCR_using_yolo) – Object detection & OCR pipeline with YOLO  
+
 ### Transformer Models & NLP
 - **[Comparative-Study-of-Transformer-on-Product--Reviews](https://github.com/Ashutosh-Mishra21/Comparative-Study-of-Transformer-on-Product--Reviews)** 
  Comparative analysis of transformer models (via Hugging Face + TensorFlow) applied to product reviews for sentiment classification.
