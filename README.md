@@ -54,6 +54,15 @@ AI & Machine Learning → Neural Networks from scratch → Sentiment Analysis & 
 
 ---
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh-Mishra21&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Mishra21&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Mishra21&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Mishra21&layout=compact&theme=radical&cache_seconds=7200" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-Mishra21&theme=radical&cache_seconds=7200" alt="GitHub Streak" />
+</p>
+
 
