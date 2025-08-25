@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
-**Ashutosh-Mishra21/Ashutosh-Mishra21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EvanLi/EvanLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh-Mishra21&show_icons=true&theme=radical&hide=prs,issues,contribs)
+
+![GitHub followers](https://img.shields.io/github/followers/Ashutosh-Mishra21?color=red) ![](https://komarev.com/ghpvc/?username=Ashutosh-Mishra21&color=blue&label=Profile+Views)
+
+*Supported by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) , [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) and [Shields.io](https://github.com/badges/shields).*
