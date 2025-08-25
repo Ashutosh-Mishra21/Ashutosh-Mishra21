@@ -16,7 +16,8 @@ Driven by curiosity and innovation, I build intelligent systems — from AI agen
  A smart assistant that finds relevant jobs, crafts tailored cover letters and resumes, applies on your behalf, and even helps you prepare for interviews.
 
 ### 🧠 AI & Computer Vision
-- [**OCR-Using-YOLO**](https://github.com/Ashutosh-Mishra21/OCR_using_yolo) – Object detection & OCR pipeline with YOLO  
+- [**OCR-Using-YOLO**](https://github.com/Ashutosh-Mishra21/OCR_using_yolo) – Object detection & OCR pipeline with YOLO
+- [**CNN_models**](https://github.com/Ashutosh-Mishra21/CNN_models)image recognition & image segmentation
 
 ### Transformer Models & NLP
 - **[Comparative-Study-of-Transformer-on-Product--Reviews](https://github.com/Ashutosh-Mishra21/Comparative-Study-of-Transformer-on-Product--Reviews)** 
@@ -45,6 +46,13 @@ Driven by curiosity and innovation, I build intelligent systems — from AI agen
 
 ---
 
+## ⚡ Fun Fact  
+I call myself a **seeker of infinite curiosity** 🔮 — always exploring new frontiers:  
+AI & Machine Learning → Neural Networks from scratch → Sentiment Analysis & Recommender Systems → Generative AI for drug discovery → Agentic AI for healthcare → and even digging into physics mysteries like dark energy & dark matter.  
+
+💡 My curiosity is both my **curse** (never satisfied) and my **superpower** (boundless creation).  
+
+---
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh-Mishra21&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Mishra21&layout=compact&theme=radical)
