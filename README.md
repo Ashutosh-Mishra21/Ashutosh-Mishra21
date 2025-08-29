@@ -63,7 +63,7 @@ AI & Machine Learning → Neural Networks from scratch → Sentiment Analysis & 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-Mishra21&theme=radical&cache_seconds=3600" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-Mishra21&theme=radical&cache_seconds=3600"%20alt="GitHub%20Streak" />
 </p>
 
 
