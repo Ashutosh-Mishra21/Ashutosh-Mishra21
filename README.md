@@ -41,7 +41,7 @@ Driven by curiosity and innovation, I build intelligent systems — from AI agen
 
 ## Let’s Connect
 - Hyderabad-based
-- LinkedIn: [ashutosh-mishra-99b07b221](https://www.linkedin.com/in/ashutosh-mishra-99b07b221)
+- LinkedIn: [Ashutosh Mishra](https://www.linkedin.com/in/ashutosh-mishra-99b07b221)
 - Instagram: [@iamashutosh_21](https://www.instagram.com/iamashutosh_21)
 
 ---
