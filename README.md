@@ -59,7 +59,7 @@ AI & Machine Learning → Neural Networks from scratch → Sentiment Analysis & 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Mishra21&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Mishra21" alt="GitHub stats" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Mishra21&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" height="165" />
 </p>
